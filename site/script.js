@@ -206,7 +206,7 @@ document.addEventListener("DOMContentLoaded", () => {
             
             let level = 0;
 
-            if (i === 48 || i===49) { 
+            if (i === 48 || i===49 || i===10) { 
                 level = 3; 
             } 
             if(i === 43){
